@@ -6,6 +6,7 @@
 
 ## 📋 สารบัญ (Table of Contents)
 
+* [ไฟล์เอกสารTest Case)
 * [ภาพรวมโปรเจค](#-ภาพรวมโปรเจค)
 * [โครงสร้างโปรเจค](#-โครงสร้างโปรเจค)
 * [ความต้องการของระบบ](#-ความต้องการของระบบ)
@@ -16,7 +17,7 @@
 * [Test Report](#-test-report)
 
 \---
-
+## ไฟล์เอกสาร Tescase : https://docs.google.com/spreadsheets/d/1niv4y4Oxi-2-ENot3hdhdnN-F1wg8U8IJ4xghlgpV18/edit?gid=1412413962#gid=1412413962
 ## 🏥 ภาพรวมโปรเจค
 
 โปรเจคนี้เป็น Automated E2E Testing สำหรับระบบ AgnosHealth AI Dashboard โดยครอบคลุมฟีเจอร์หลักของระบบ ได้แก่ การ Login, Navigation, การค้นหาผู้ป่วย, การกรองข้อมูล, การบันทึก Note และการ Download รายงาน
